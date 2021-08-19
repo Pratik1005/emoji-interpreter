@@ -10,7 +10,8 @@ var emojiData = {
   "😊": "Smiling Face with Smiling Eyes",
   "✔️": "Check Mark",
   "👍": "Thumbs Up",
-  "🥰": "Smiling Face with Hearts"
+  "🥰": "Smiling Face with Hearts",
+  "😎": "Smiling Face with Sunglasses"
 };
 
 var emojisWeKnow = Object.keys(emojiData);
